@@ -1,0 +1,18 @@
+# Ignore build and output directories
+/.next
+/out
+
+# Ignore node_modules directory
+/node_modules
+
+# Ignore static files
+/public
+
+# Ignore test files
+/__tests__
+
+# Ignore configuration files
+/.eslintrc
+/.babelrc
+/.prettierrc
+/.env
